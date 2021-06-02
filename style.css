@@ -86,6 +86,16 @@ footer {
      justify-content: center;
      margin: 1rem 0 3rem 0;
 }
+@media screen and (max-width: 300px){
+     .socials {
+          
+          display: inline-block;
+          align-items: center;
+     
+      }
+
+ }
+
 
 .socials li {
      margin: 0 10px ;
@@ -187,6 +197,15 @@ button:hover {
      font-weight: 500;
 }
 
+@media screen and (max-width: 300px){
+     .hero__text, .subhero__text, h3 {
+          text-align: center;
+          padding: 0px;
+          display: none;
+     }
+
+}
+
 .profile__img {
      height: 50%;
      background-position: center;
@@ -222,6 +241,16 @@ button:hover {
       height: 150;
       width: 50;
 }
+
+@media screen and (max-width: 300px){
+     .about__img {
+          display: none;
+     }
+
+
+}
+
+
 .about__content {
      text-align: center;
      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -254,7 +283,7 @@ button:hover {
 body {
      display:flex ;
      flex-direction: column;
-     background: #eee;
+     background: #fff;
      user-select: none;
 }
 
