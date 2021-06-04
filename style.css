@@ -187,9 +187,16 @@ button:hover {
      margin: auto;
      width: 50%;
      padding: 20PX;
-     
+     height: 20%;
+     background-position: center;
+     background-repeat: no-repeat;
+     position: relative;
 }
-
+@media screen and (min-width: 300px){
+     .profile__img {
+          width: 30%;
+     }
+}
 .hero__text, .subhero__text, h3 {
      text-align: center;
      padding: 10px 50px;
@@ -206,13 +213,6 @@ button:hover {
 
 }
 
-.profile__img {
-     height: 50%;
-     background-position: center;
-     background-repeat: no-repeat;
-     position: relative;
-     width: 60%;
-}
 
 .profile__img:hover {
      background-color:  rgba(0,136, 169, 1);
@@ -222,7 +222,7 @@ button:hover {
 
 .subhero__text__container {
      margin:0 auto;
-     width: 65px;
+     width: 68px;
      font-size: 25px;
      background-color: red;
 }
