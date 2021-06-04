@@ -345,7 +345,7 @@ body {
      transform: translate3d(30%, 0, -200px);
 }
 
-/*------ Work Page Styling  -----------*/
+/*------ Blog title Styling  -----------*/
 
 .blog__title {
      margin: 50px; auto;
@@ -414,9 +414,7 @@ body {
     display: flex;
 }
 
-.icon {
-    align-items: center;
-    display: flex;
+
 
 }
 .contact__container .contactinfo .box .icon {
@@ -521,7 +519,7 @@ body {
     font-size: 18px;
 }
 
-/*------ Contact Page Styling  -----------*/
+/*------ Blog Page Styling  -----------*/
 *{
     box-sizing: border-box;
 }
