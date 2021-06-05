@@ -4,7 +4,7 @@ style.css
      box-sizing: border-box;
      margin: 0 ;
      padding: 0px;
-     background-color: rgb(56, 56, 56);
+     background-color:snow;
      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
      font-weight: 500;
      font-size: 16px;
@@ -265,7 +265,7 @@ button:hover {
 
 .cv {
      margin:0 auto;
-     width: .000009199em;
+     width: 40px;
      background-color: red;
      top: 10px;
 }
