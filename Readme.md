@@ -12,7 +12,9 @@ My Portfolio Website has a minimalist aesthetic. Less is more, and i styled it i
 
 ####  Sitemap
 
-[SiteMap](sitemap.xml)
+[SiteMap xml](sitemap.xml)
+[SiteMap Photo](docs/SiteMap.png)
+
 
 ####  Website Screenshots
 [ScreenShots](docs/ScreenShots)
